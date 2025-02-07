@@ -1,4 +1,4 @@
-# 📊 Advanced EDA on S&P 500 Dataset
+#  Advanced EDA on S&P 500 Dataset
 
 This project performs **Advanced Exploratory Data Analysis (EDA)** on the **S&P 500** dataset from Yahoo Finance, covering trends, volatility, and seasonal patterns.
 
