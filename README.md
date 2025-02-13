@@ -29,5 +29,3 @@ I will leave it as is, without attaching a dataset – the notebook will downloa
 ## **Next Steps**
 - Compare with FTSE 100 or other indices.
 - Use Machine Learning for predictive analysis.
-
-🚀 **Happy Analyzing!**
